@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("touhou-lake.jpg");
+    background-color: black;
+    background-size: 0%
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
